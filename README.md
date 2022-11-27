@@ -1,8 +1,12 @@
-<h1 align="center">Bulário [![Abrir no Gitpod](https://www.medware.com.br/wp-content/uploads/2022/08/logo-medware.png)](https://www.medware.com.br/)</h1>
+<h1 align="center">Bulário 
+  <a href="[https://ant.design](https://www.medware.com.br/)" align="center">
+    <img width="100" src="https://www.medware.com.br/wp-content/uploads/2022/08/logo-medware.png">
+  </a>
+</h1>
 
 <div align="center">
 
-Uma solução para consula de bulas em React.
+Uma solução web para consula de bulas utilizando React.
 
 </div>
 
@@ -10,7 +14,7 @@ Uma solução para consula de bulas em React.
 
 - Consultar lista de medicamentos com nome do fabricante.
 - Consultar detalhes da composição do medicamento.
-- Baixar PDF da bula dos medicamentos.
+- Baixar bula dos medicamentos em PDF.
 
 ## ⌨️ Desenvolvimento
 
